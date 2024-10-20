@@ -1,6 +1,0 @@
-According to the Boston Housing Price dataset, here are tasks:
-Task 1: Familiarize yourself with the dataset 
-Task 2: (Optional) If you do not already have an instance of Watson Studio, create an IBM Cloud Lite account and provision an instance of Waston Studio.
-Task 3: Load the dataset in a Jupyter Notebook using Watson Studio.
-Task 4: Generate basic statistics and visualizations for upper management. 
-Task 5: Use the appropriate tests to answer the questions provided.
